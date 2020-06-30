@@ -6,3 +6,5 @@ Whiplash - игра в жанре "ритм-игры" В играх этого �
 Чтобы запустить игру, нужно запустить whiplash/finalbuild1/whiplash the rhythm game.exe
 
 3-х минутное видео-демонстрация игры на YouTube: https://youtu.be/VFgHhjl_H6g
+
+Плейлист с поэтапны девлогом игры на YouTube: https://www.youtube.com/playlist?list=PLgyLyeLL7OYUV5iMINjtuQLU-45H_bBZo
